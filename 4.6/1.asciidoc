@@ -1,0 +1,8 @@
+== a)
+
+Series of 0: 0···0
+
+== c)
+
+Right-sententioal forms for S: ( ··· ( ) ··· )
+Thus: series of parentheses: (···(
