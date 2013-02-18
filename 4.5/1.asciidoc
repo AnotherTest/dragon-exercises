@@ -1,0 +1,7 @@
+== a)
+
+0 1 (Reducing production: S := 0 1)
+
+== b)
+
+0 S 1 (Reducing production: S := 0 S 1)
