@@ -8,7 +8,7 @@ S => 0S1 => 00S11 => 000111
 
 == b)
 
-Redunction: aaa*a\++ => Saa*a\++ => SSa*a\++ => SSS*a\++ => SSa\++ => SSS\++ => SS+ => S
+Reduction: aaa*a\++ => Saa*a\++ => SSa*a\++ => SSS*a\++ => SSa\++ => SSS\++ => SS+ => S
 
 Rightmost Derivation:
 S => SS+ => SSS\++ => SSa\++ => SSS*a\++ => SSa*a\++ => Saa*a\++ => aaa*a++
