@@ -1,0 +1,12 @@
+== b)
+
+No, it is left-recursive.
+
+== c)
+rexpr    := rterm rexpr'
+rexpr'   := + rterm rexpr' | ϵ
+rterm    := rfactor rterm'
+rterm'   := rfactor rterm' | ϵ
+rfactor  := rprimary rfactor'
+rfactor' := * rfactor' | ϵ
+rprimary := a | b
